@@ -38,6 +38,8 @@ Real shift logs are messy, so the generator plants some problems on purpose:
 
 The two flagged machines need **different** actions: DT-04 is a maintenance problem, while DT-07 is healthy but idle (a dispatch or operator-availability problem). Targets (85 % availability, 70 % utilisation, 15 % downtime) are illustrative only; each mine sets its own.
 
+![Availability vs utilisation by machine (synthetic data)](docs/equipment_comparison.png)
+
 ## Files
 
 | File | Purpose |
